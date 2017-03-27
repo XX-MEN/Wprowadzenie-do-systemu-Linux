@@ -1,5 +1,6 @@
 # Wprowadzenie-do-systemu-Linux
-Bash
+Bash.
+
 Do wykonania nie jest wymagana instalacja Linuxa, mozna skorzystac z jednego z interpreterow online,np
 https://www.tutorialspoint.com/execute_bash_online.php
 
