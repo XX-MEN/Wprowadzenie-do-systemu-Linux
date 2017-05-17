@@ -1,9 +1,6 @@
 # Wprowadzenie-do-systemu-Linux
 Bash.
 
-Do wykonania nie jest wymagana instalacja Linuxa, mozna skorzystac z jednego z interpreterow online,np
-https://www.tutorialspoint.com/execute_bash_online.php
-
 Zadanie 1
 Prosze napisac skrypt w Bashu ktory jako argumenty bedzie przyjmowal dwa napisy a nastepnie prosze je wyswietlic.
 Napisy maja byc wyswietlone tylko i wylacznie gdy do skyptu beda przekazane 2 argumenty.
